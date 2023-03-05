@@ -1,0 +1,83 @@
+.loginCard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 70%;
+    margin: auto;
+    font-family: arial;
+    padding-bottom: 30px;
+  }
+  .translationHeader {
+    text-align: left;
+    background-color: #ffc75f;
+    padding-top: 10px;
+    padding-bottom: 75px;
+    border-bottom: 3px solid rgb(173, 173, 173);
+    color: white;
+  }
+  .appName {
+    margin-left: 20px;
+  }
+
+  .translatedText{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 70%;
+    margin: auto;
+    font-family: arial;
+    border-radius: 20px;
+  }
+  .translatedArea{
+    margin-top: 40px;
+    
+  }
+  .translated{
+    padding: 20px;
+  }
+  .translatedBtnDiv{
+    padding: 10px;
+    background-color: #845EC2;
+    border-radius: 0px 0px 20px 20px;
+  }
+  .deleteButton{
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 20px;
+  }
+  .userImage {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+  }
+  .userNameImage {
+      display: flex;
+      justify-content: right;
+  }
+  .headerLeft {
+    width: 50%;
+    float: left;
+  }
+  .headerRight {
+    width: 50%;
+    float: left;
+    text-align: right;
+  }
+  .headerContent {
+    width: 80%;
+    margin: auto;
+  }
+  button.logoutBtn {
+    height: 36px;
+    margin-left: 20px;
+    color: white;
+    cursor: pointer;
+    background-color: #845EC2;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    top: 11px;
+  }
+  .recentlyTranslatedheading{
+      padding: 20px 20px 0px 20px;
+  }
+  .translatedText ul li {
+    margin-top: 15px;
+}
